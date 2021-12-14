@@ -23,6 +23,8 @@ bot.start((ctx) =>
   )
 );
 
+bot.on('sticker' , async (ctx) => ctx.reply('Что?'));
+
 bot.help((ctx) => ctx.reply(COUNTRIES_LIST));
 
 bot.on('text', async (ctx) => {
