@@ -25,6 +25,7 @@
     "dotenv": "^10.0.0",
     "telegraf": "^3.37.0",
     "telegraph": "^0.8.22",
+    "translate": "^1.4.1",
     "vk-io": "^4.4.0"
   }
 }
